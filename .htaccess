@@ -1,0 +1,15 @@
+RewriteEngine On
+
+# 🔒 MODO SIGILO: Oculta archivos sensibles (.git, .env) devolviendo 404
+RewriteRule ^\..* - [F,L]
+
+# 🐝 HONEYBOT TRAP V2: Trampa para bots maliciosos que buscan WordPress
+# Redirige internamente los intentos de acceso a wp-admin/login al script señuelo.
+RewriteCond %{REQUEST_URI} !^/wp-lure\.php$
+RewriteRule ^(wp-admin|wp-login\.php) /core/wp-lure.php [NC,L]
+
+# 🎯 ENRUTADOR INVISIBLE DE GOOGLE ADS
+# Permite URLs limpias (ej. laboratoriosanfrancisco.com/metabolico) sin perder el GCLID
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(checkups|metabolico|checkup2|tiroideo|prostatico|contacto|ubicaciones|quienes|salud)$ index.php?estudio=$1 [QSA,L]

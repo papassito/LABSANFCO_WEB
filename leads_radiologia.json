@@ -1,0 +1,192 @@
+[
+    {
+        "fecha_hora": "2026-08-07 03:00:43",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-07 01:10:47",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-07 00:00:21",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 20:32:46",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 19:27:14",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/%2eenv",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 06:09:50",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-05 23:21:38",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-05 22:04:27",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-05 15:25:39",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-05 06:50:14",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-05 06:16:09",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-04 04:35:20",
+        "dia": "Tuesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-03 03:06:48",
+        "dia": "Monday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-02 12:39:54",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-01 05:34:33",
+        "dia": "Saturday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-01 04:29:19",
+        "dia": "Saturday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-01 00:05:44",
+        "dia": "Saturday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-07-31 14:21:41",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-login.php",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    },
+    {
+        "fecha_hora": "2026-07-31 11:53:47",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en Radiolog\u00eda: \/wp-admin",
+        "ip": "74.208.242.244",
+        "ciudad": "Kansas City",
+        "estado": "Missouri",
+        "dispositivo": "Desconocido"
+    }
+]

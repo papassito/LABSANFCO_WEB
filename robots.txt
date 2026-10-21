@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# 🔒 INVISIBILIDAD EXCLUSIVA MATRIZ
+Disallow: /panel-control.php
+Disallow: /leads_historico.json
+Disallow: /online_users.json
+Disallow: /log_lead.php
+Disallow: /ping.php
+
+# Bloquear archivos del sistema
+Disallow: /error_docs/
+Disallow: /cgi-bin/
+
+# Mapa del sitio y Archivo de Inteligencia Artificial
+Sitemap: https://laboratoriosanfrancisco.com/sitemap.xml
+LLMstxt: https://laboratoriosanfrancisco.com/llms.txt

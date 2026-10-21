@@ -1,0 +1,2192 @@
+[
+    {
+        "fecha_hora": "2026-08-07 15:10:21",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "20.170.17.213",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-07 10:42:03",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "216.73.163.9",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 Chrome\/129.0.0.0 Sa"
+    },
+    {
+        "fecha_hora": "2026-08-07 06:18:37",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "74.248.16.78",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-07 04:42:46",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "20.100.201.54",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 22:52:18",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "20.215.189.213",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 17:48:23",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "4.223.140.16",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 14:30:30",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "4.225.166.176",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 08:16:29",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "20.215.218.105",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-06 05:36:29",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "62.60.130.227",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36"
+    },
+    {
+        "fecha_hora": "2026-08-06 03:33:37",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "96.126.118.207",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 CMS-Detector\/1.0"
+    },
+    {
+        "fecha_hora": "2026-08-06 01:03:51",
+        "dia": "Thursday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "20.79.30.30",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-05 23:05:41",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.97.108",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 22:10:49",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 22:10:47",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 22:10:47",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 21:42:46",
+        "dia": "Wednesday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo de resultados en 1 hora",
+        "ip": "187.245.97.108",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 21:05:22",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.97.108",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 20:55:00",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.101.36",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-05 15:52:35",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "74.248.33.65",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 15:52:34",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-admin",
+        "ip": "74.248.33.65",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 14:36:27",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.87.217",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-05 14:12:08",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.126.195",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 14:11:03",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.126.195",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 14:05:29",
+        "dia": "Wednesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.245.113.28",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-05 13:41:51",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.98.0",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-05 13:12:25",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.114.80",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 09:16:28",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.163.21",
+        "ciudad": "Choix",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-05 09:11:23",
+        "dia": "Wednesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.245.113.104",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-05 09:10:22",
+        "dia": "Wednesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.245.113.104",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-05 08:54:32",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.111.166",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-05 08:53:04",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "45.131.195.133",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/605.1.15 Version\/17."
+    },
+    {
+        "fecha_hora": "2026-08-05 07:38:56",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "4.232.147.36",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-05 07:14:58",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "190.2.142.78",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-05 07:14:57",
+        "dia": "Wednesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "190.2.142.78",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-04 23:06:12",
+        "dia": "Tuesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-04 23:06:11",
+        "dia": "Tuesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-04 23:06:10",
+        "dia": "Tuesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-04 15:12:50",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.103.42",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-08-04 12:57:03",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "201.175.173.126",
+        "ciudad": "Ecatepec",
+        "estado": "M\u00e9xico",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-04 12:14:55",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.156.97",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-04 12:06:34",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.156.97",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-04 10:46:59",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.116.73",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-04 10:46:42",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.116.73",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-04 08:52:57",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.46.78",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-04 08:07:43",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "201.175.211.166",
+        "ciudad": "Tijuana",
+        "estado": "Baja California",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-04 04:20:16",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "174.17.22.163",
+        "ciudad": "Phoenix",
+        "estado": "Arizona",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-08-04 02:02:14",
+        "dia": "Tuesday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "4.223.65.51",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-04 00:19:10",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.39.15.229",
+        "ciudad": "San Blas Otzacatipan",
+        "estado": "M\u00e9xico",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7_1 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-03 23:57:45",
+        "dia": "Monday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "20.9.4.9",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-03 23:42:10",
+        "dia": "Monday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "163.7.12.95",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-03 19:00:34",
+        "dia": "Monday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "163.7.12.7",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-03 16:40:28",
+        "dia": "Monday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "4.184.60.71",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Bot Desconocido"
+    },
+    {
+        "fecha_hora": "2026-08-03 13:45:27",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.46.74",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-08-03 12:27:39",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.203.194.219",
+        "ciudad": "Maytorena",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-03 10:49:55",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.46.30",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-03 10:41:06",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.190.116.88",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-03 09:55:52",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "66.9.176.187",
+        "ciudad": "Mexico City",
+        "estado": "Mexico City",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-03 09:12:50",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.203.194.219",
+        "ciudad": "Maytorena",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-03 08:13:29",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.163.116",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-03 06:35:34",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.18.147",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-02 17:59:16",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "163.7.13.205",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-02 17:49:05",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "173.239.214.226",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 11.0; Win64; x64; rv:120.0) Gecko\/20100101 Firefox\/120.0"
+    },
+    {
+        "fecha_hora": "2026-08-02 17:49:01",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "173.239.214.226",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit\/537.36 (KHTML, like "
+    },
+    {
+        "fecha_hora": "2026-08-02 12:49:45",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-02 12:49:38",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-02 12:49:32",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "127.0.0.1",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-02 12:00:44",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "155.2.215.72",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; rv:143.0) Gecko\/20100101 Firefox\/143.0"
+    },
+    {
+        "fecha_hora": "2026-08-02 11:00:55",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.156.33",
+        "ciudad": "Mazatl\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-02 10:48:41",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.110.230",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-08-02 09:56:14",
+        "dia": "Sunday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "200.68.184.145",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-02 07:42:44",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.97.10",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-08-02 07:41:25",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.97.10",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-08-02 03:21:22",
+        "dia": "Sunday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-admin",
+        "ip": "4.223.65.51",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-02 00:00:10",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.114.133",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 15; ALI-NX3 Build\/HONORALI-N23) AppleWebKit\/537.36 ("
+    },
+    {
+        "fecha_hora": "2026-08-01 23:59:47",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.114.133",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 15; ALI-NX3 Build\/HONORALI-N23) AppleWebKit\/537.36 ("
+    },
+    {
+        "fecha_hora": "2026-08-01 18:32:19",
+        "dia": "Saturday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "157.245.186.196",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0"
+    },
+    {
+        "fecha_hora": "2026-08-01 18:17:08",
+        "dia": "Saturday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "143.198.37.144",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0"
+    },
+    {
+        "fecha_hora": "2026-08-01 17:19:39",
+        "dia": "Saturday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "104.207.60.37",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-08-01 14:02:19",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.107.72",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-08-01 07:34:32",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.107.219",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-08-01 07:12:46",
+        "dia": "Saturday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "45.33.110.44",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 CMS-Detector\/1.0"
+    },
+    {
+        "fecha_hora": "2026-07-31 20:12:59",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.110.47",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-31 19:54:31",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.189.170",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-31 19:54:03",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.189.170",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-31 19:48:54",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.250.66.134",
+        "ciudad": "Oaxaca City",
+        "estado": "Oaxaca",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 17:51:47",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.129.38.120",
+        "ciudad": "Oaxaca City",
+        "estado": "Oaxaca",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 15:54:08",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.0.244",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 15:40:45",
+        "dia": "Friday",
+        "tipo": "WHATSAPP",
+        "detalle": "Inscripcion Danza | Origen: Organico | Campa\u00f1a: Directo",
+        "ip": "76.150.220.172",
+        "ciudad": "McHenry",
+        "estado": "Illinois",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-31 15:40:42",
+        "dia": "Friday",
+        "tipo": "NAVEGACION",
+        "detalle": "Clic Mision - Explorar Talleres | Origen: Organico | Campa\u00f1a: Directo",
+        "ip": "76.150.220.172",
+        "ciudad": "McHenry",
+        "estado": "Illinois",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-31 15:10:10",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-login.php",
+        "ip": "45.131.193.48",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; rv:143.0) Gecko\/20100101 Firefox\/143.0"
+    },
+    {
+        "fecha_hora": "2026-07-31 14:49:11",
+        "dia": "Friday",
+        "tipo": "WHATSAPP",
+        "detalle": "Inscripcion Danza | Origen: Organico | Campa\u00f1a: Directo",
+        "ip": "189.173.224.125",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-31 14:49:07",
+        "dia": "Friday",
+        "tipo": "WHATSAPP",
+        "detalle": "Inscripcion Danza | Origen: Organico | Campa\u00f1a: Directo",
+        "ip": "189.173.224.125",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-31 13:10:17",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.189.64",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 11:57:36",
+        "dia": "Friday",
+        "tipo": "BOT_TRAPPED",
+        "detalle": "Escaneo il\u00edcito en: \/wp-admin",
+        "ip": "189.173.224.125",
+        "ciudad": "AMENAZA BLOQUEADA",
+        "estado": "BOT",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-31 08:24:04",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.195.193",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 07:48:34",
+        "dia": "Friday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo de resultados en 1 hora",
+        "ip": "187.245.106.37",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 07:46:58",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.106.37",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 07:43:50",
+        "dia": "Friday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo de resultados en 1 hora",
+        "ip": "187.245.106.37",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 07:31:28",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.110.174",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 07:14:56",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.110.174",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 06:59:59",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.195.193",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-31 05:00:38",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "172.58.166.89",
+        "ciudad": "Chicago",
+        "estado": "Illinois",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-30 14:22:14",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.46.228",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-30 13:29:08",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.99.120",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-30 13:16:10",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.113.95",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-30 11:19:21",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.151.141.160",
+        "ciudad": "Nogales",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-30 11:15:27",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "104.28.85.31",
+        "ciudad": "Ciudad Ju\u00e1rez",
+        "estado": "Chihuahua",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_6 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-30 11:09:31",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.210.156.217",
+        "ciudad": "El Habal",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-30 10:45:26",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.133.65",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-30 10:25:10",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "172.58.166.89",
+        "ciudad": "Chicago",
+        "estado": "Illinois",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-30 10:11:23",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.21.182",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-30 10:04:29",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.210.156.217",
+        "ciudad": "El Habal",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-30 08:48:16",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.106.86",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-30 08:48:03",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.106.86",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-30 08:34:58",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.184.138",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-30 00:27:46",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.107.92",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-29 22:22:21",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.246.97.250",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-29 22:12:10",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.41.57",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-29 22:08:26",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.41.57",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-29 13:50:25",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.76.212",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-29 13:48:49",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "185.36.151.2",
+        "ciudad": "Helsinki",
+        "estado": "Uusimaa",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-29 13:16:25",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.22.248",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-29 13:11:10",
+        "dia": "Wednesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.245.114.232",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-29 11:26:08",
+        "dia": "Wednesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "200.68.156.162",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; FRL-L23; HMSCore 6.16.2.321) AppleWebKit\/537.36 "
+    },
+    {
+        "fecha_hora": "2026-07-29 09:34:52",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.40.71",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-29 08:56:45",
+        "dia": "Wednesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.245.111.121",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-29 08:56:26",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.111.121",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-29 08:41:12",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.93.67",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-28 22:19:25",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "201.151.6.179",
+        "ciudad": "Pachuquilla",
+        "estado": "Hidalgo",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-28 15:34:07",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.40.3",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-28 14:10:57",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "152.233.5.137",
+        "ciudad": "Chicago",
+        "estado": "Illinois",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-28 13:17:55",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.99.102",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-28 12:57:47",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.226.178",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-28 12:05:27",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.171.70",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; PPA-LX3; HMSCore 6.16.2.321) AppleWebKit\/537.36 "
+    },
+    {
+        "fecha_hora": "2026-07-28 07:12:42",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.56.134",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-28 07:11:51",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.56.134",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-28 04:46:26",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "177.244.110.40",
+        "ciudad": "Oaxaca City",
+        "estado": "Oaxaca",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-27 15:47:28",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.103.77",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-27 15:46:43",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.103.77",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-27 14:19:07",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.116.230",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-27 14:08:26",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.226.211",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-27 13:42:30",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.184.162",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-27 13:23:35",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.136.207",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-27 13:20:29",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.189.233",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-27 11:23:05",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.110.209",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-27 10:36:32",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.163.35",
+        "ciudad": "Culiacancito",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-27 08:40:26",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.46.156",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-26 23:41:07",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.97.108",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-26 21:49:04",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.58.92",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-25 13:01:54",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.105.141",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-25 11:26:45",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.101.18",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-25 09:00:55",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.114.99",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-24 22:08:34",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.79.197",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-24 17:29:09",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.237.161",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-24 12:38:48",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.109.146",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-24 09:53:15",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.92.156",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-24 00:25:54",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.85.140",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-23 11:23:32",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.102.123",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-23 10:21:57",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.156.7",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-23 09:50:06",
+        "dia": "Thursday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "200.68.189.20",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-23 08:33:34",
+        "dia": "Thursday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.103.131",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 16; SM-G990E Build\/BP2A.250605.031.A3) AppleWebKit\/5"
+    },
+    {
+        "fecha_hora": "2026-07-22 19:53:16",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.230.75.33",
+        "ciudad": "Nogales",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-22 14:40:19",
+        "dia": "Wednesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.158.27.237",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-22 13:48:37",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.69.197",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7_1 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-22 13:20:49",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.105.173",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-22 12:42:04",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "107.193.55.144",
+        "ciudad": "San Diego",
+        "estado": "California",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-22 11:29:01",
+        "dia": "Wednesday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo de resultados en 1 hora",
+        "ip": "200.68.184.150",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-22 09:37:31",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.103.3",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-22 07:46:04",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.57.102",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-22 07:40:56",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.110.143",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-22 07:38:01",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.163.63",
+        "ciudad": "Piaxtla de Abajo",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Samsun"
+    },
+    {
+        "fecha_hora": "2026-07-22 05:56:57",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "131.229.219.29",
+        "ciudad": "Mexico City",
+        "estado": "Mexico City",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-22 05:56:47",
+        "dia": "Wednesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "131.229.219.29",
+        "ciudad": "Mexico City",
+        "estado": "Mexico City",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-21 23:39:42",
+        "dia": "Tuesday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo de resultados en 1 hora",
+        "ip": "200.68.156.168",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-21 23:39:33",
+        "dia": "Tuesday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo de resultados en 1 hora",
+        "ip": "200.68.156.168",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-21 23:38:42",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.156.168",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-21 20:23:47",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.29.211",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-21 15:23:43",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.184.145",
+        "ciudad": "Culiac\u00e1n",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-21 14:50:56",
+        "dia": "Tuesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "201.175.209.118",
+        "ciudad": "Tijuana",
+        "estado": "Baja California",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-21 12:57:49",
+        "dia": "Tuesday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.246.108.112",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_4_1 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-21 12:56:31",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.246.108.112",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_4_1 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-21 12:22:17",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.79.120",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-21 11:00:30",
+        "dia": "Tuesday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.93.134",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-20 19:26:19",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.213.109",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/15"
+    },
+    {
+        "fecha_hora": "2026-07-20 19:25:28",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.213.109",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (X11; Linux x86_64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/15"
+    },
+    {
+        "fecha_hora": "2026-07-20 18:56:38",
+        "dia": "Monday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "98.97.147.16",
+        "ciudad": "Mexico City",
+        "estado": "Mexico City",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-20 18:56:37",
+        "dia": "Monday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "98.97.147.16",
+        "ciudad": "Mexico City",
+        "estado": "Mexico City",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-20 14:55:41",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.94.112",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_3_1 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-20 14:35:50",
+        "dia": "Monday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "189.173.3.117",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-20 14:35:34",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.3.117",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-20 12:07:44",
+        "dia": "Monday",
+        "tipo": "Llamada",
+        "detalle": "Clic en llamada telef\u00f3nica",
+        "ip": "187.245.111.43",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_2 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-20 11:31:31",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.218.85.242",
+        "ciudad": "Nacozari de Garc\u00eda",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-20 11:20:30",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.110.205",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-20 10:45:56",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "186.96.147.134",
+        "ciudad": "Mexico City",
+        "estado": "Mexico City",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-20 10:02:27",
+        "dia": "Monday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.72.231",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-19 10:24:05",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.115.184",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-19 10:23:14",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.115.184",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-19 09:24:10",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.246.106.220",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-19 09:12:38",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "200.68.156.16",
+        "ciudad": "Escuinapa de Hidalgo",
+        "estado": "Sinaloa",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 16_3_1 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-19 08:36:47",
+        "dia": "Sunday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.110.66",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-18 23:50:06",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.188.79.221",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-18 15:14:17",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.251.110.190",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 26_5_0 like Mac OS X) AppleWebKit\/605.1.15 (K"
+    },
+    {
+        "fecha_hora": "2026-07-18 09:35:06",
+        "dia": "Saturday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.158.49.140",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 20:49:59",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "187.245.106.31",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-17 18:18:24",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "104.28.50.16",
+        "ciudad": "Mexico City",
+        "estado": "Mexico City",
+        "dispositivo": "Mozilla\/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit\/605.1.15 (KHT"
+    },
+    {
+        "fecha_hora": "2026-07-17 15:30:03",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Clic en enlace de chat",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Linux; Android 10; K) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome"
+    },
+    {
+        "fecha_hora": "2026-07-17 14:40:15",
+        "dia": "Friday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo naranja de servicios de 1 hora",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 14:39:33",
+        "dia": "Friday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo naranja de servicios de 1 hora",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 14:39:24",
+        "dia": "Friday",
+        "tipo": "Ads - Como Llegar",
+        "detalle": "Clic en cintillo naranja de servicios de 1 hora",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 14:34:09",
+        "dia": "Friday",
+        "tipo": "WhatsApp",
+        "detalle": "Hola, vengo de laboratoriosanfrancisco.com, \u00bfMe podr\u00edan brindar m\u00e1s informaci\u00f3n sobre sus servicios?",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 14:02:20",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: Pedro Infante | Detalle: hhhhhhhhhhhhhhhhhh",
+        "ip": "189.173.72.34",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:51:17",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: Pedro Infante | Detalle: hhahha",
+        "ip": "189.173.72.34",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:44:38",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: Pedro Infante | Detalle: GGGGGGGGGGGGGGGGGGGGGGGGG",
+        "ip": "189.173.72.34",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:37:46",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: ggggggggggggg | Detalle: ffffffff",
+        "ip": "189.173.72.34",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:35:23",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: gggggggggggggggggg | Detalle: gggggggggggggggggggggg",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:13:04",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: ssssssssss | Detalle: ssssssssss",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:09:31",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: hhhhhhhhhhhh | Detalle: fdfdfdfd",
+        "ip": "189.173.72.34",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:04:12",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: gggg | Detalle: fdffffffffffffffffff",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    },
+    {
+        "fecha_hora": "2026-07-17 13:00:39",
+        "dia": "Friday",
+        "tipo": "Correo",
+        "detalle": "Formulario enviado por: JESUS | Detalle: ffffffffffffffffffff",
+        "ip": "189.173.46.176",
+        "ciudad": "Hermosillo",
+        "estado": "Sonora",
+        "dispositivo": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko)"
+    }
+]
